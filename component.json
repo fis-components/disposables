@@ -1,0 +1,10 @@
+{
+    "name": "disposables",
+    "description": "Disposables let you safely compose resource disposal semantics",
+    "repos": "https://github.com/gaearon/disposables.git",
+    "main": "modules/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "1.0.1",
+    "dependencies": {}
+}
